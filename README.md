@@ -29,15 +29,5 @@ A hybrid action-defense gameplay prototype developed in Unreal Engine 5 demonstr
 
 ---
 
-## Repository Structure
-
-text
-├── Config/                  # Default engine, input, and project settings
-├── Source/
-│   └── ProjectSynth/
-│       ├── CombatTraceComponent.h
-│       └── CombatTraceComponent.cpp
-├── ProjectSynth.uproject
-└── README.md
 
 *Note: Large art assets (`/Content`) and binary build caches are excluded from this repository to highlight core systems architecture and C++ implementation.*
