@@ -1,0 +1,19 @@
+﻿# Build & IDE Cache
+.vs/
+.idea/
+*.sln
+*.suo
+
+# Unreal Engine Temp Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Binary art assets (keeps repository lean and under GitHub limits)
+Content/
+
+.DS_Store
+*.slnx
+.vsconfig
